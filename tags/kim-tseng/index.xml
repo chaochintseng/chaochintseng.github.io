@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim Tseng on I&#39;m Kim</title>
+    <link>https://chaochintseng.github.io/tags/kim-tseng/</link>
+    <description>Recent content in Kim Tseng on I&#39;m Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chaochintseng.github.io/tags/kim-tseng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://chaochintseng.github.io/about/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chaochintseng.github.io/about/</guid>
+      
+        <description>Hello! 感謝你的點閱, 我是昭欽(Kim)。
+ 我熱愛學習，閱讀、以及運動。   希望透過『寫』幫助自己『學習』。   希望透過『寫』幫助自己訓練思考進而『成長』。  </description>
+      
+    </item>
+    
+  </channel>
+</rss>

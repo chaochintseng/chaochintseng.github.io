@@ -2,28 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kim Tseng</title>
-    <link>https://example.com/ar/</link>
+    <link>https://chaochintseng.github.io/ar/</link>
     <description>Recent content on Kim Tseng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chaochintseng.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/ar/english/about/</link>
+      <link>https://chaochintseng.github.io/ar/english/about/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/english/about/</guid>
+      <guid>https://chaochintseng.github.io/ar/english/about/</guid>
       
-        <description>Hello, I am Kim. Thank you for watching it.</description>
+        <description>Hello! 感謝你的點閱, 我是昭欽(Kim)。
+ 我熱愛學習，閱讀、以及運動。   希望透過『寫』幫助自己『學習』。   希望透過『寫』幫助自己訓練思考進而『成長』。  </description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/ar/arabic/archives/</link>
+      <link>https://chaochintseng.github.io/ar/arabic/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/arabic/archives/</guid>
+      <guid>https://chaochintseng.github.io/ar/arabic/archives/</guid>
       
         <description></description>
       
@@ -31,10 +32,10 @@
     
     <item>
       <title></title>
-      <link>https://example.com/ar/english/archives/</link>
+      <link>https://chaochintseng.github.io/ar/english/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/english/archives/</guid>
+      <guid>https://chaochintseng.github.io/ar/english/archives/</guid>
       
         <description></description>
       
@@ -42,10 +43,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/ar/english/contact/</link>
+      <link>https://chaochintseng.github.io/ar/english/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/english/contact/</guid>
+      <guid>https://chaochintseng.github.io/ar/english/contact/</guid>
       
         <description></description>
       
@@ -53,10 +54,10 @@
     
     <item>
       <title>للتواصل</title>
-      <link>https://example.com/ar/arabic/contact/</link>
+      <link>https://chaochintseng.github.io/ar/arabic/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/arabic/contact/</guid>
+      <guid>https://chaochintseng.github.io/ar/arabic/contact/</guid>
       
         <description></description>
       
@@ -64,10 +65,10 @@
     
     <item>
       <title>نموذج عربي</title>
-      <link>https://example.com/ar/arabic/post/arabic_example/</link>
+      <link>https://chaochintseng.github.io/ar/arabic/post/arabic_example/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/arabic/post/arabic_example/</guid>
+      <guid>https://chaochintseng.github.io/ar/arabic/post/arabic_example/</guid>
       
         <description>من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
       
@@ -75,10 +76,10 @@
     
     <item>
       <title>حول</title>
-      <link>https://example.com/ar/arabic/about/</link>
+      <link>https://chaochintseng.github.io/ar/arabic/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/arabic/about/</guid>
+      <guid>https://chaochintseng.github.io/ar/arabic/about/</guid>
       
         <description>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
       
@@ -86,10 +87,10 @@
     
     <item>
       <title></title>
-      <link>https://example.com/ar/english/imprint/</link>
+      <link>https://chaochintseng.github.io/ar/english/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/ar/english/imprint/</guid>
+      <guid>https://chaochintseng.github.io/ar/english/imprint/</guid>
       
         <description>Legal Disclosure Information in accordance with the applicable law
 Jane Doe</description>

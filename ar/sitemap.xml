@@ -2,89 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/ar/english/</loc>
+    <loc>https://chaochintseng.github.io/ar/english/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/ar/english/about/</loc>
+    <loc>https://chaochintseng.github.io/ar/english/about/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/ar/</loc>
+    <loc>https://chaochintseng.github.io/ar/tags/kim-tseng/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://chaochintseng.github.io/tags/kim-tseng/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://chaochintseng.github.io/ar/tags/kim-tseng/"
                 />
   </url><url>
-    <loc>https://example.com/ar/arabic/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/ar/arabic/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/ar/english/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/ar/english/contact/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/ar/arabic/contact/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/ar/arabic/post/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/ar/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://chaochintseng.github.io/ar/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://chaochintseng.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://chaochintseng.github.io/ar/"
                 />
   </url><url>
-    <loc>https://example.com/ar/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
+    <loc>https://chaochintseng.github.io/ar/tags/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chaochintseng.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://chaochintseng.github.io/ar/tags/"
+                />
+  </url><url>
+    <loc>https://chaochintseng.github.io/ar/arabic/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaochintseng.github.io/ar/arabic/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaochintseng.github.io/ar/english/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaochintseng.github.io/ar/english/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaochintseng.github.io/ar/arabic/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaochintseng.github.io/ar/arabic/post/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/ar/arabic/post/arabic_example/</loc>
+    <loc>https://chaochintseng.github.io/ar/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/ar/arabic/about/</loc>
+    <loc>https://chaochintseng.github.io/ar/arabic/post/arabic_example/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chaochintseng.github.io/ar/arabic/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/ar/english/imprint/</loc>
+    <loc>https://chaochintseng.github.io/ar/english/imprint/</loc>
   </url><url>
-    <loc>https://example.com/ar/categories/</loc>
+    <loc>https://chaochintseng.github.io/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://chaochintseng.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://chaochintseng.github.io/ar/categories/"
                 />
   </url><url>
-    <loc>https://example.com/ar/tags/index/</loc>
+    <loc>https://chaochintseng.github.io/ar/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="https://chaochintseng.github.io/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/index/"
+                href="https://chaochintseng.github.io/ar/tags/index/"
                 />
   </url>
 </urlset>
